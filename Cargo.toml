@@ -3,3 +3,6 @@
 name = "piston-test"
 version = "0.0.1"
 authors = ["Brandon DeRosier <bdero@mit.edu>"]
+
+[dependencies.piston]
+git = "https://github.com/PistonDevelopers/piston.git"
